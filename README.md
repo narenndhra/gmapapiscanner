@@ -167,21 +167,5 @@ The scanner currently tests and evaluates:
 
 ---
 
-## 8. Development
-
-### Run code formatting
-
-```bash
-black gmaps_scanner.py
-```
-
-### Run static analysis
-
-```bash
-flake8 gmaps_scanner.py
-```
-
----
-
 and I will generate the file using `python_user_visible`.
 ```
