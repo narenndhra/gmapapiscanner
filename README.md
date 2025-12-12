@@ -166,6 +166,3 @@ The scanner currently tests and evaluates:
 * Some APIs may return `UNDETERMINED` when responses are non-standard.
 
 ---
-
-and I will generate the file using `python_user_visible`.
-```
