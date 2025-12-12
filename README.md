@@ -1,18 +1,3 @@
-Understood. Here is a **fully updated README.md** with:
-
-* Requirements section
-* Installation section (system + pip)
-* Usage examples (basic + advanced)
-* pip requirements explicitly listed
-* Clear structure for GitHub
-
-If you want, I can generate a downloadable file afterward.
-
----
-
-# **UPDATED README.md (Complete & Polished for GitHub)**
-
-````markdown
 # Google Maps API Key Vulnerability Scanner
 
 A fast, concurrency-enabled scanner for assessing Google Maps API keys against all major Google Maps Platform endpoints.  
